@@ -1,0 +1,633 @@
+.slide-16-9-2,
+.slide-16-9-2 * {
+  box-sizing: border-box;
+}
+.slide-16-9-2 {
+  background: linear-gradient(
+    243.98deg,
+    rgba(106, 40, 158, 1) 0.5208333488553762%,
+    rgba(222, 17, 103, 1) 88.02083134651184%,
+    rgba(188, 0, 90, 0.2) 99.98999834060669%
+  );
+  width: 1480px;
+  height: 6135px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1 {
+  background: #fffefe;
+  width: 1453px;
+  height: 158px;
+  position: absolute;
+  left: -13px;
+  top: -12px;
+}
+.apni-janta {
+  color: #2153d3;
+  text-align: left;
+  font: 400 80px "jsMath-cmbx10", sans-serif;
+  position: absolute;
+  left: 434px;
+  top: 44px;
+  width: 668px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-1 {
+  border-radius: 12px;
+  width: 168px;
+  height: 102px;
+  position: absolute;
+  left: 1239px;
+  top: 25px;
+}
+.download-removebg-preview-1 {
+  width: 98px;
+  height: 118px;
+  position: absolute;
+  left: 28px;
+  top: 6px;
+}
+.rectangle-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(23, 72, 63, 1) 0%,
+    rgba(27, 13, 193, 0.42) 100%
+  );
+  width: 1443px;
+  height: 150px;
+  position: absolute;
+  left: -3px;
+  top: 193px;
+}
+.rectangle-2 {
+  background: linear-gradient(
+    180deg,
+    rgba(249, 254, 195, 1) 0%,
+    rgba(206, 255, 198, 1) 100%
+  );
+  border-radius: 40px;
+  width: 547px;
+  height: 101px;
+  position: absolute;
+  left: 31px;
+  top: 425px;
+}
+.our-objective {
+  color: #000000;
+  text-align: left;
+  font: 800 48px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 46px;
+  top: 452px;
+  width: 507px;
+  height: 59px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-2 {
+  width: 320.49px;
+  height: 262.23px;
+  position: absolute;
+  left: 1086.51px;
+  top: 669.35px;
+  transform-origin: 0 0;
+  transform: rotate(0.112deg) scale(1, 1);
+}
+.rectangle-3 {
+  background: rgba(255, 255, 255, 0.83);
+  border-radius: 42px;
+  width: 1005px;
+  height: 520px;
+  position: absolute;
+  left: 31px;
+  top: 584px;
+}
+.simplify-the-kyc-process-with-a-user-friendly-digital-interface-reducing-paperwork-and-enhancing-convenience {
+  color: #000000;
+  text-align: left;
+  font: 800 25px/45px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 50px;
+  top: 593px;
+  width: 979px;
+  height: 192px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.continuously-update-and-improve-your-kyc-procedures-staying-compliant-with-evolving-regulations-and-customer-needs {
+  color: #000000;
+  text-align: left;
+  font: 800 25px/45px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 46px;
+  top: 740px;
+  width: 979px;
+  height: 192px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.prioritize-data-security-and-transparency-assuring-customers-that-their-information-is-handled-with-care-and-in-compliance-with-regulations {
+  color: #000000;
+  text-align: left;
+  font: 800 25px/45px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 46px;
+  top: 909px;
+  width: 979px;
+  height: 192px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-6 {
+  border-radius: 50%;
+  width: 162px;
+  height: 143px;
+  position: absolute;
+  left: 20px;
+  top: 1172px;
+}
+.facilitating-a-hassle-free-kyc-experience {
+  color: #ffffff;
+  text-align: left;
+  font: 800 43px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 38px;
+  top: 210px;
+  width: 1138px;
+  height: 118px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-4 {
+  background: linear-gradient(
+    180deg,
+    rgba(249, 254, 195, 1) 0%,
+    rgba(206, 255, 198, 1) 100%
+  );
+  border-radius: 40px;
+  width: 1346px;
+  height: 128px;
+  position: absolute;
+  left: 37px;
+  top: 2262px;
+}
+.rectangle-8 {
+  background: linear-gradient(
+    180deg,
+    rgba(249, 254, 195, 1) 0%,
+    rgba(206, 255, 198, 1) 100%
+  );
+  border-radius: 40px;
+  width: 1336px;
+  height: 118px;
+  position: absolute;
+  left: 37px;
+  top: 2951px;
+}
+.rectangle-5 {
+  background: rgba(255, 255, 255, 0.83);
+  border-radius: 30px;
+  width: 1011px;
+  height: 374px;
+  position: absolute;
+  left: 37px;
+  top: 2463px;
+}
+.iifl-securities-customer-care-number {
+  color: #000000;
+  text-align: left;
+  font: 800 50px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 96px;
+  top: 2272px;
+  width: 1480.31px;
+  height: 76.3px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-3 {
+  border-radius: 100px;
+  width: 347px;
+  height: 245px;
+  position: absolute;
+  left: 1064px;
+  top: 2488px;
+}
+.ellipse-1 {
+  border-radius: 50%;
+  width: 75px;
+  height: 88px;
+  position: absolute;
+  left: 64px;
+  top: 2542px;
+}
+.ellipse-3 {
+  border-radius: 50%;
+  width: 75px;
+  height: 88px;
+  position: absolute;
+  left: 64px;
+  top: 2698px;
+}
+.ellipse-2 {
+  border-radius: 50%;
+  width: 75px;
+  height: 88px;
+  position: absolute;
+  left: 925px;
+  top: 2542px;
+}
+.ellipse-4 {
+  border-radius: 0px;
+  position: absolute;
+  left: 924.5px;
+  top: 2667.5px;
+  overflow: visible;
+}
+._1860-267-3000-7039-050-000-gold-ncd-nbfc-insurance-and-nps {
+  color: #11338b;
+  text-align: left;
+  font: 800 30px/60px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 214px;
+  top: 2608px;
+  width: 1120px;
+  height: 249px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._1860-267-3000-7039-050-000-gold-ncd-nbfc-insurance-and-nps-span {
+  color: #11338b;
+  font: 800 30px/60px "Inknut Antiqua", sans-serif;
+  text-decoration: underline;
+}
+._1860-267-3000-7039-050-000-gold-ncd-nbfc-insurance-and-nps-span2 {
+  color: #11338b;
+  font: 800 30px/60px "Inknut Antiqua", sans-serif;
+}
+._022-40071000-022-61502000-equity-currency-and-commodity-spot {
+  color: #11338b;
+  text-align: left;
+  font: 800 30px/60px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 220px;
+  top: 2447px;
+  width: 1120px;
+  height: 249px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._022-40071000-022-61502000-equity-currency-and-commodity-spot-span {
+  color: #11338b;
+  font: 800 30px/60px "Inknut Antiqua", sans-serif;
+  text-decoration: underline;
+}
+._022-40071000-022-61502000-equity-currency-and-commodity-spot-span2 {
+  color: #11338b;
+  font: 800 30px/60px "Inknut Antiqua", sans-serif;
+}
+.rectangle-6 {
+  background: linear-gradient(
+    180deg,
+    rgba(126, 190, 204, 1) 0%,
+    rgba(232, 242, 244, 1) 100%
+  );
+  width: 1211px;
+  height: 175px;
+  position: absolute;
+  left: 182px;
+  top: 1176px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25),
+    0px 2px 40px 0px rgba(0, 0, 0, 1), 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.click-here-to-know-about-your-details {
+  color: #000000;
+  text-align: left;
+  font: 800 39px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 202px;
+  top: 1202px;
+  width: 1171px;
+  height: 113px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-62 {
+  background: linear-gradient(
+    180deg,
+    rgba(249, 254, 195, 1) 0%,
+    rgba(206, 255, 198, 1) 100%
+  );
+  border-radius: 40px;
+  width: 556.51px;
+  height: 112.93px;
+  position: absolute;
+  left: 31px;
+  top: 1404px;
+}
+.types-of-kyc {
+  color: #000000;
+  text-align: left;
+  font: 800 48px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 58.85px;
+  top: 1442px;
+  width: 1441px;
+  height: 58px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-7 {
+  background: rgba(255, 245, 245, 0.76);
+  border-radius: 60px;
+  width: 1360px;
+  height: 570px;
+  position: absolute;
+  left: 26px;
+  top: 1632px;
+}
+.rectangle-9 {
+  background: rgba(255, 245, 245, 0.76);
+  border-radius: 60px;
+  width: 1365px;
+  height: 561px;
+  position: absolute;
+  left: 31px;
+  top: 3158px;
+}
+.aadhar-based-kyc-this-verification-process-is-done-online-making-it-highly-convenient-for-those-with-a-broadband-or-internet-connection-here-the-customer-needs-to-upload-a-scanned-copy-of-their-original-aadhar-card {
+  text-align: left;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 49px;
+  top: 1660px;
+  width: 1326px;
+  height: 240px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.aadhar-based-kyc-this-verification-process-is-done-online-making-it-highly-convenient-for-those-with-a-broadband-or-internet-connection-here-the-customer-needs-to-upload-a-scanned-copy-of-their-original-aadhar-card-span {
+  color: #11338b;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+}
+.aadhar-based-kyc-this-verification-process-is-done-online-making-it-highly-convenient-for-those-with-a-broadband-or-internet-connection-here-the-customer-needs-to-upload-a-scanned-copy-of-their-original-aadhar-card-span2 {
+  color: #000000;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+}
+.in-person-based-kyc-if-the-customer-wishes-to-invest-more-in-mutual-funds-per-year-they-will-be-required-to-carry-out-an-in-person-verification-kyc-which-is-done-offline {
+  text-align: left;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 49px;
+  top: 1977px;
+  width: 1295px;
+  height: 228px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.in-person-based-kyc-if-the-customer-wishes-to-invest-more-in-mutual-funds-per-year-they-will-be-required-to-carry-out-an-in-person-verification-kyc-which-is-done-offline-span {
+  color: #11338b;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+}
+.in-person-based-kyc-if-the-customer-wishes-to-invest-more-in-mutual-funds-per-year-they-will-be-required-to-carry-out-an-in-person-verification-kyc-which-is-done-offline-span2 {
+  color: #000000;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+}
+.why-we-collect-your-data {
+  color: #000000;
+  text-align: left;
+  font: 800 50px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 60px;
+  top: 2975px;
+  width: 1477px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.to-provide-services-we-use-your-personal-information-to-provide-you-with-the-services-you-request-such-as-sending-newsletters-or-responding-to-inquiries {
+  text-align: left;
+  font: 800 35px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 37px;
+  top: 3177px;
+  width: 1340px;
+  height: 246px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.to-provide-services-we-use-your-personal-information-to-provide-you-with-the-services-you-request-such-as-sending-newsletters-or-responding-to-inquiries-span {
+  color: #11338b;
+  font: 800 35px "Inknut Antiqua", sans-serif;
+}
+.to-provide-services-we-use-your-personal-information-to-provide-you-with-the-services-you-request-such-as-sending-newsletters-or-responding-to-inquiries-span2 {
+  color: #000000;
+  font: 800 35px "Inknut Antiqua", sans-serif;
+}
+.to-improve-our-website-we-analyze-usage-data-to-enhance-our-website-s-functionality-content-and-user-experience {
+  text-align: left;
+  font: 800 35px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 37px;
+  top: 3438px;
+  width: 1310px;
+  height: 276px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.to-improve-our-website-we-analyze-usage-data-to-enhance-our-website-s-functionality-content-and-user-experience-span {
+  color: #11338b;
+  font: 800 35px "Inknut Antiqua", sans-serif;
+}
+.to-improve-our-website-we-analyze-usage-data-to-enhance-our-website-s-functionality-content-and-user-experience-span2 {
+  color: #000000;
+  font: 800 35px "Inknut Antiqua", sans-serif;
+}
+.group-5 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-10 {
+  background: linear-gradient(
+    180deg,
+    rgba(249, 254, 195, 1) 0%,
+    rgba(206, 255, 198, 1) 100%
+  );
+  border-radius: 40px;
+  width: 535px;
+  height: 105px;
+  position: absolute;
+  left: 55px;
+  top: 3947px;
+}
+.privacy-policy {
+  color: #000000;
+  text-align: left;
+  font: 800 50px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 72px;
+  top: 3957px;
+  width: 1575px;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-4 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-11 {
+  background: rgba(255, 245, 245, 0.76);
+  border-radius: 60px;
+  width: 1296px;
+  height: 1820px;
+  position: absolute;
+  left: 69px;
+  top: 4222px;
+}
+.data-sharing-we-do-not-sell-trade-or-rent-your-personal-information-to-third-parties-however-we-may-share-your-information-with-trusted-service-providers-who-assist-us-in-operating-our-website-and-providing-services-to-you {
+  text-align: left;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 107.07px;
+  top: 4366.48px;
+  width: 1254.82px;
+  height: 277.31px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.data-sharing-we-do-not-sell-trade-or-rent-your-personal-information-to-third-parties-however-we-may-share-your-information-with-trusted-service-providers-who-assist-us-in-operating-our-website-and-providing-services-to-you-span {
+  color: #00771a;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+  text-decoration: underline;
+}
+.data-sharing-we-do-not-sell-trade-or-rent-your-personal-information-to-third-parties-however-we-may-share-your-information-with-trusted-service-providers-who-assist-us-in-operating-our-website-and-providing-services-to-you-span2 {
+  color: #000000;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+}
+.your-rights-you-have-the-right-to-access-correct-or-delete-your-personal-information-if-you-have-any-questions-about-your-data-or-wish-to-exercise-your-rights-please-contact-us-using-the-information-provided-at-the-end-of-this-policy {
+  text-align: left;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 107.07px;
+  top: 4742.83px;
+  width: 1247.83px;
+  height: 295.95px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.your-rights-you-have-the-right-to-access-correct-or-delete-your-personal-information-if-you-have-any-questions-about-your-data-or-wish-to-exercise-your-rights-please-contact-us-using-the-information-provided-at-the-end-of-this-policy-span {
+  color: #00771a;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+  text-decoration: underline;
+}
+.your-rights-you-have-the-right-to-access-correct-or-delete-your-personal-information-if-you-have-any-questions-about-your-data-or-wish-to-exercise-your-rights-please-contact-us-using-the-information-provided-at-the-end-of-this-policy-span2 {
+  color: #000000;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+}
+.security-measures-we-take-reasonable-steps-to-protect-your-personal-information-including-encryption-access-controls-and-regular-security-assessments {
+  text-align: left;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 107.85px;
+  top: 5108.7px;
+  width: 1247.05px;
+  height: 248.18px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.security-measures-we-take-reasonable-steps-to-protect-your-personal-information-including-encryption-access-controls-and-regular-security-assessments-span {
+  color: #00771a;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+  text-decoration: underline;
+}
+.security-measures-we-take-reasonable-steps-to-protect-your-personal-information-including-encryption-access-controls-and-regular-security-assessments-span2 {
+  color: #000000;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+}
+.policy-updates-we-may-update-this-privacy-policy-to-reflect-changes-in-our-data-practices-the-updated-policy-will-be-posted-on-our-website-with-a-revised-last-updated-date-please-review-this-policy-periodically-for-any-changes {
+  text-align: left;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 107.07px;
+  top: 5426.79px;
+  width: 1231.51px;
+  height: 277.31px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.policy-updates-we-may-update-this-privacy-policy-to-reflect-changes-in-our-data-practices-the-updated-policy-will-be-posted-on-our-website-with-a-revised-last-updated-date-please-review-this-policy-periodically-for-any-changes-span {
+  color: #00771a;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+  text-decoration: underline;
+}
+.policy-updates-we-may-update-this-privacy-policy-to-reflect-changes-in-our-data-practices-the-updated-policy-will-be-posted-on-our-website-with-a-revised-last-updated-date-please-review-this-policy-periodically-for-any-changes-span2 {
+  color: #000000;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+}
+.contact-us-if-you-have-any-questions-concerns-or-requests-regarding-your-personal-information-or-this-privacy-policy-please-contact-us-at-7595986676 {
+  text-align: left;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 107.85px;
+  top: 5753.04px;
+  width: 1224.52px;
+  height: 235.36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.contact-us-if-you-have-any-questions-concerns-or-requests-regarding-your-personal-information-or-this-privacy-policy-please-contact-us-at-7595986676-span {
+  color: #00771a;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+  text-decoration: underline;
+}
+.contact-us-if-you-have-any-questions-concerns-or-requests-regarding-your-personal-information-or-this-privacy-policy-please-contact-us-at-7595986676-span2 {
+  color: #000000;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+}
+.contact-us-if-you-have-any-questions-concerns-or-requests-regarding-your-personal-information-or-this-privacy-policy-please-contact-us-at-7595986676-span3 {
+  color: #11338b;
+  font: 800 30px "Inknut Antiqua", sans-serif;
+}
+.image-4 {
+  border-radius: 171px;
+  width: 566px;
+  height: 342px;
+  position: absolute;
+  left: 830px;
+  top: 3800px;
+}

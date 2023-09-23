@@ -1,0 +1,881 @@
+.slide-16-9-2,
+.slide-16-9-2 * {
+  box-sizing: border-box;
+}
+.slide-16-9-2 {
+  background: linear-gradient(
+    243.98deg,
+    rgba(106, 40, 158, 1) 0.5208333488553762%,
+    rgba(222, 17, 103, 1) 88.02083134651184%,
+    rgba(188, 0, 90, 0.2) 99.98999834060669%
+  );
+  width: 1700px;
+  height: 5296px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-25 {
+  background: rgba(217, 250, 255, 0.99);
+  border-radius: 40px;
+  width: 1336px;
+  height: 958px;
+  position: absolute;
+  left: 42px;
+  top: 1879px;
+}
+.frame-1 {
+  background: #fffefe;
+  width: 1440px;
+  height: 139px;
+  position: absolute;
+  left: -15px;
+  top: 24px;
+}
+.rectangle-14 {
+  background: #d9d9d9;
+  width: 1920px;
+  height: 138px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.apni-janta {
+  color: #2153d3;
+  text-align: left;
+  font: 400 80px "jsMath-cmbx10", sans-serif;
+  position: absolute;
+  left: 500px;
+  top: 61px;
+  width: 828px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-weight: bold;
+}
+.image-1 {
+  border-radius: 12px;
+  width: 130px;
+  height: 76px;
+  position: absolute;
+  left: 1301px;
+  top: 60px;
+}
+.download-removebg-preview-1 {
+  width: 75px;
+  height: 100px;
+  position: absolute;
+  left: 19px;
+  top: 50px;
+}
+.welcome-to-apni-janta-portal {
+  color: #ffffff;
+  text-align: center;
+  font: 800 88px "Alegreya SC", sans-serif;
+  position: absolute;
+  left: 117px;
+  top: 215px;
+  width: 1226px;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.our-objective {
+  color: #ffffff;
+  text-align: left;
+  font: 800 48px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 38px;
+  top: 425px;
+  width: 1412px;
+  height: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-13 {
+  position: absolute;
+  left: 27px;
+  top: 564px;
+  overflow: visible;
+}
+.image-3 {
+  border-radius: 102px;
+  width: 200px;
+  height: 227px;
+  position: absolute;
+  left: 1207px;
+  top: 578px;
+}
+.to-provide-timely-accurate-and-compassionate-assistance-to-individuals-in-need-by-offering-a-user-friendly-and-accessible-platform-that-connects-them-with-trained-professionals-and-resources-ensuring-their-safety-well-being-and-access-to-essential-information-and-services {
+  color: #000000;
+  text-align: left;
+  font: 800 26px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 38px;
+  top: 585px;
+  width: 1128px;
+  height: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-15 {
+  background: #f6ffdd;
+  border-radius: 20px;
+  width: 416px;
+  height: 512px;
+  position: absolute;
+  left: 66px;
+  box-shadow: 0 15px 15px 2px black;
+  top: 889px;
+}
+
+
+.rectangle-16 {
+  background: #f6ffdd;
+  border-radius: 20px;
+  width: 415px;
+  height: 512px;
+  position: absolute;
+  left: 976px;
+  top: 889px;
+  box-shadow: 0 15px 15px 2px black;
+}
+
+
+.rectangle-17 {
+  background: #f6ffdd;
+  border-radius: 20px;
+  width: 415px;
+  height: 512px;
+  position: absolute;
+  left: 522px;
+  top: 889px;
+  box-shadow: 0 15px 15px 2px black
+}
+/* Remove underlines from the hyperlink */
+#image-link {
+  text-decoration: none;
+}
+
+/* Style the image as needed */
+#hyperlinked-image {
+  width: 300px; /* Set the width of your image */
+  /* Add other styling as needed */
+}
+.line-1 {
+  position: absolute;
+  left: 0px;
+  top: 863px;
+  overflow: visible;
+}
+.line-2 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 415px;
+  height: 0px;
+  position: absolute;
+  left: 64px;
+  top: 1229px;
+}
+.line-3 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 415px;
+  height: 0px;
+  position: absolute;
+  left: 976px;
+  top: 1226px;
+}
+.line-4 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 416px;
+  height: 0px;
+  position: absolute;
+  left: 520px;
+  top: 1226px;
+}
+.solution-for-legal-awareness {
+  color: #0a183d;
+  text-align: center;
+  font: 700 30px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 72px;
+  top: 1200px;
+  width: 389px;
+  height: 151px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.btn-1
+{
+  border: black;
+  background-color: #120202;
+  color: white;
+}
+
+.facilitating-a-hassle-free-kyc-experience {
+  color: #000000;
+  text-align: center;
+  font: 700 30px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 984px;
+  top: 1184px;
+  width: 407px;
+  height: 176px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.government-query-assistant {
+  color: #000000;
+  text-align: center;
+  font: 700 30px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 528px;
+  top: 1184px;
+  width: 402px;
+  height: 175px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-4 {
+  width: 319px;
+  height: 258px;
+  position: absolute;
+  left: 115px;
+  top: 929px;
+}
+.image-5 {
+  width: 314px;
+  height: 253px;
+  position: absolute;
+  left: 567px;
+  top: 931px;
+}
+.image-6 {
+  width: 326px;
+  height: 242px;
+  position: absolute;
+  left: 1021px;
+  top: 929px;
+}
+.line-5 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 3px 0 0 0;
+  width: 1914px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 1502px;
+  transform-origin: 0 0;
+  transform: rotate(0.06deg) scale(1, 1);
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-20 {
+  border-radius: 0px;
+  position: absolute;
+  left: 932px;
+  top: 4962px;
+  overflow: visible;
+}
+.rectangle-21 {
+  border-radius: 0px;
+  position: absolute;
+  left: 933px;
+  top: 5126px;
+  overflow: visible;
+}
+.rectangle-22 {
+  border-radius: 0px;
+  position: absolute;
+  left: 484px;
+  top: 5128px;
+  overflow: visible;
+}
+.rectangle-23 {
+  border-radius: 0px;
+  position: absolute;
+  left: 59px;
+  top: 5138px;
+  overflow: visible;
+}
+.members {
+  color: #ffffff;
+  text-align: left;
+  font: 800 60px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 73.06px;
+  top: 4773px;
+  width: 552.1px;
+  height: 142px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ritwik-saha {
+  color: #000000;
+  text-align: left;
+  font: 500 36px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 1037px;
+  top: 5140px;
+  width: 365.11px;
+  height: 103.1px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.swastika-banerjee {
+  color: #000000;
+  text-align: left;
+  font: 500 36px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 100px;
+  top: 5140px;
+  width: 429.94px;
+  height: 119.63px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.swarnali-mukherjee {
+  color: #000000;
+  text-align: left;
+  font: 500 36px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 530px;
+  top: 5179px;
+  width: 432px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.sayan-bhattacharya {
+  color: #000000;
+  text-align: left;
+  font: 500 36px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 975px;
+  top: 4946px;
+  width: 470.2px;
+  height: 174.1px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-18 {
+  border-radius: 0px;
+  position: absolute;
+  left: 56px;
+  top: 4957.79px;
+  overflow: visible;
+}
+.abhilash-dutta {
+  color: #120202;
+  text-align: left;
+  font: 500 36px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 130px;
+  top: 4961.68px;
+  width: 328.25px;
+  height: 133.25px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-19 {
+  border-radius: 0px;
+  position: absolute;
+  left: 487.99px;
+  top: 4961.68px;
+  overflow: visible;
+}
+.saheli-chakratorty {
+  color: #000000;
+  text-align: left;
+  font: 500 36px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 530px;
+  top: 4937px;
+  width: 482.49px;
+  height: 182.85px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-7 {
+  border-radius: 147px;
+  width: 419px;
+  height: 227px;
+  position: absolute;
+  left: 997px;
+  top: 1597px;
+}
+.guidelines-for-public {
+  color: #ffffff;
+  text-align: left;
+  font: 800 50px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 27px;
+  top: 1505px;
+  width: 896px;
+  height: 127px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-24 {
+  border-radius: 0px;
+  position: absolute;
+  left: 32px;
+  top: 1660px;
+  overflow: visible;
+}
+.how-to-link-pan-card-with-aadhaar-card {
+  color: #000000;
+  text-align: left;
+  font: 500 36px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 47px;
+  top: 1661px;
+  width: 925px;
+  height: 114px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-4 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-26 {
+  border-radius: 0px;
+  position: absolute;
+  left: 41px;
+  top: 2987px;
+  overflow: visible;
+}
+.how-to-update-aadhaar-card-details {
+  color: #000000;
+  text-align: left;
+  font: 500 36px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 56px;
+  top: 2986px;
+  width: 925px;
+  height: 114px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.step-1-visit-the-e-filing-portal-home-page-and-click-on-link-aadhaar-in-quick-links-section-alternatively-login-to-e-filing-portal-and-click-on-link-aadhaar-in-profile-section {
+  text-align: left;
+  position: absolute;
+  left: 61.95px;
+  top: 1906px;
+  width: 1319.75px;
+  height: 216.87px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-1-visit-the-e-filing-portal-home-page-and-click-on-link-aadhaar-in-quick-links-section-alternatively-login-to-e-filing-portal-and-click-on-link-aadhaar-in-profile-section-span {
+  color: #de1167;
+  font: 700 32px "Inknut Antiqua", sans-serif;
+}
+.step-1-visit-the-e-filing-portal-home-page-and-click-on-link-aadhaar-in-quick-links-section-alternatively-login-to-e-filing-portal-and-click-on-link-aadhaar-in-profile-section-span2 {
+  color: #000000;
+  font: 500 24px "Inknut Antiqua", sans-serif;
+}
+.step-1-visit-the-e-filing-portal-home-page-and-click-on-link-aadhaar-in-quick-links-section-alternatively-login-to-e-filing-portal-and-click-on-link-aadhaar-in-profile-section-span3 {
+  color: #000000;
+  font: 500 30px "Inknut Antiqua", sans-serif;
+}
+.step-2-enter-your-pan-and-aadhaar-number {
+  text-align: left;
+  position: absolute;
+  left: 52px;
+  top: 2078px;
+  width: 1325.7px;
+  height: 156.1px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-2-enter-your-pan-and-aadhaar-number-span {
+  color: #de1167;
+  font: 700 32px "Inknut Antiqua", sans-serif;
+}
+.step-2-enter-your-pan-and-aadhaar-number-span2 {
+  color: #000000;
+  font: 500 24px "Inknut Antiqua", sans-serif;
+}
+.step-2-enter-your-pan-and-aadhaar-number-span3 {
+  color: #000000;
+  font: 500 30px "Inknut Antiqua", sans-serif;
+}
+.step-3-click-on-continue-to-pay-through-e-pay-tax {
+  text-align: left;
+  position: absolute;
+  left: 59px;
+  top: 2143px;
+  width: 1325.7px;
+  height: 156.1px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-3-click-on-continue-to-pay-through-e-pay-tax-span {
+  color: #de1167;
+  font: 700 32px "Inknut Antiqua", sans-serif;
+}
+.step-3-click-on-continue-to-pay-through-e-pay-tax-span2 {
+  color: #000000;
+  font: 500 24px "Inknut Antiqua", sans-serif;
+}
+.step-3-click-on-continue-to-pay-through-e-pay-tax-span3 {
+  color: #000000;
+  font: 500 30px "Inknut Antiqua", sans-serif;
+}
+.step-4-enter-your-pan-confirm-pan-and-any-mobile-number-to-receive-otp {
+  text-align: left;
+  position: absolute;
+  left: 62px;
+  top: 2247px;
+  width: 1325.7px;
+  height: 156.1px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-4-enter-your-pan-confirm-pan-and-any-mobile-number-to-receive-otp-span {
+  color: #de1167;
+  font: 700 32px "Inknut Antiqua", sans-serif;
+}
+.step-4-enter-your-pan-confirm-pan-and-any-mobile-number-to-receive-otp-span2 {
+  color: #000000;
+  font: 500 30px "Inknut Antiqua", sans-serif;
+}
+.step-5-post-otp-verification-you-will-be-redirected-to-e-pay-tax-page {
+  text-align: left;
+  position: absolute;
+  left: 62px;
+  top: 2333px;
+  width: 1325.7px;
+  height: 156.1px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-5-post-otp-verification-you-will-be-redirected-to-e-pay-tax-page-span {
+  color: #de1167;
+  font: 700 32px "Inknut Antiqua", sans-serif;
+}
+.step-5-post-otp-verification-you-will-be-redirected-to-e-pay-tax-page-span2 {
+  color: #000000;
+  font: 500 30px "Inknut Antiqua", sans-serif;
+}
+.step-6-click-on-proceed-on-the-income-tax-tile {
+  text-align: left;
+  position: absolute;
+  left: 62px;
+  top: 2411px;
+  width: 1325.7px;
+  height: 156.1px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-6-click-on-proceed-on-the-income-tax-tile-span {
+  color: #de1167;
+  font: 700 32px "Inknut Antiqua", sans-serif;
+}
+.step-6-click-on-proceed-on-the-income-tax-tile-span2 {
+  color: #000000;
+  font: 500 30px "Inknut Antiqua", sans-serif;
+}
+.step-7-select-the-relevant-assessment-year-and-type-of-payment-as-other-receipts-500-and-click-continue {
+  text-align: left;
+  position: absolute;
+  left: 63px;
+  top: 2523px;
+  width: 1325.7px;
+  height: 156.1px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-7-select-the-relevant-assessment-year-and-type-of-payment-as-other-receipts-500-and-click-continue-span {
+  color: #de1167;
+  font: 700 32px "Inknut Antiqua", sans-serif;
+}
+.step-7-select-the-relevant-assessment-year-and-type-of-payment-as-other-receipts-500-and-click-continue-span2 {
+  color: #000000;
+  font: 500 30px "Inknut Antiqua", sans-serif;
+}
+.step-8-applicable-amount-will-be-pre-filled-against-others-click-continue {
+  text-align: left;
+  position: absolute;
+  left: 62px;
+  top: 2713px;
+  width: 1307px;
+  height: 97px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-8-applicable-amount-will-be-pre-filled-against-others-click-continue-span {
+  color: #de1167;
+  font: 700 32px "Inknut Antiqua", sans-serif;
+}
+.step-8-applicable-amount-will-be-pre-filled-against-others-click-continue-span2 {
+  color: #000000;
+  font: 500 30px "Inknut Antiqua", sans-serif;
+}
+.line-6 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 3px 0 0 0;
+  width: 1440.01px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 2868px;
+  transform-origin: 0 0;
+  transform: rotate(-0.159deg) scale(1, 1);
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-252 {
+  border-radius: 0px;
+  position: absolute;
+  left: 42px;
+  top: 3201px;
+  overflow: visible;
+}
+.step-1-go-to-the-official-aadhaar-self-service-update-portal-at-https-ssup-uidai-gov-in-ssup {
+  text-align: left;
+  position: absolute;
+  left: 92px;
+  top: 3269.01px;
+  width: 1307px;
+  height: 106.26px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-1-go-to-the-official-aadhaar-self-service-update-portal-at-https-ssup-uidai-gov-in-ssup-span {
+  color: #de1167;
+  font: 700 32px "Inknut Antiqua", sans-serif;
+}
+.step-1-go-to-the-official-aadhaar-self-service-update-portal-at-https-ssup-uidai-gov-in-ssup-span2 {
+  color: #000000;
+  font: 500 30px "Inknut Antiqua", sans-serif;
+}
+.step-1-go-to-the-official-aadhaar-self-service-update-portal-at-https-ssup-uidai-gov-in-ssup-span3 {
+  color: #000000;
+  font: 500 30px "Inknut Antiqua", sans-serif;
+  text-decoration: underline;
+}
+.step-1-go-to-the-official-aadhaar-self-service-update-portal-at-https-ssup-uidai-gov-in-ssup-span4 {
+  color: #000000;
+  font: 500 30px "Inknut Antiqua", sans-serif;
+}
+.step-2-enter-your-12-digit-aadhaar-number-and-the-captcha-verification-code-provided-on-the-screen {
+  text-align: left;
+  position: absolute;
+  left: 92px;
+  top: 3431.58px;
+  width: 1307px;
+  height: 106.26px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-2-enter-your-12-digit-aadhaar-number-and-the-captcha-verification-code-provided-on-the-screen-span {
+  color: #de1167;
+  font: 700 32px "Inknut Antiqua", sans-serif;
+}
+.step-2-enter-your-12-digit-aadhaar-number-and-the-captcha-verification-code-provided-on-the-screen-span2 {
+  color: #000000;
+  font: 500 30px "Inknut Antiqua", sans-serif;
+}
+.step-4-you-will-be-prompted-to-enter-the-correct-information-in-the-fields-that-need-to-be-updated {
+  text-align: left;
+  position: absolute;
+  left: 92px;
+  top: 3822.62px;
+  width: 1307px;
+  height: 106.26px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-4-you-will-be-prompted-to-enter-the-correct-information-in-the-fields-that-need-to-be-updated-span {
+  color: #de1167;
+  font: 700 32px "Inknut Antiqua", sans-serif;
+}
+.step-4-you-will-be-prompted-to-enter-the-correct-information-in-the-fields-that-need-to-be-updated-span2 {
+  color: #000000;
+  font: 500 30px "Inknut Antiqua", sans-serif;
+}
+.step-6-after-submission-you-will-receive-an-acknowledgment-slip-with-a-unique-update-request-number-urn {
+  text-align: left;
+  position: absolute;
+  left: 92px;
+  top: 4153.08px;
+  width: 1307px;
+  height: 106.26px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-6-after-submission-you-will-receive-an-acknowledgment-slip-with-a-unique-update-request-number-urn-span {
+  color: #de1167;
+  font: 700 32px "Inknut Antiqua", sans-serif;
+}
+.step-6-after-submission-you-will-receive-an-acknowledgment-slip-with-a-unique-update-request-number-urn-span2 {
+  color: #000000;
+  font: 500 30px "Inknut Antiqua", sans-serif;
+}
+.step-7-if-your-update-request-requires-biometric-verification-such-as-for-a-photo-update-you-may-need-to-visit-an-aadhaar-enrollment-center {
+  text-align: left;
+  position: absolute;
+  left: 92px;
+  top: 4309.28px;
+  width: 1307px;
+  height: 106.26px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-7-if-your-update-request-requires-biometric-verification-such-as-for-a-photo-update-you-may-need-to-visit-an-aadhaar-enrollment-center-span {
+  color: #de1167;
+  font: 700 32px "Inknut Antiqua", sans-serif;
+}
+.step-7-if-your-update-request-requires-biometric-verification-such-as-for-a-photo-update-you-may-need-to-visit-an-aadhaar-enrollment-center-span2 {
+  color: #000000;
+  font: 500 30px "Inknut Antiqua", sans-serif;
+}
+.step-8-once-your-update-request-is-processed-and-approved-you-will-receive-a-confirmation-sms-on-your-registered-mobile-number {
+  text-align: left;
+  position: absolute;
+  left: 92px;
+  top: 4458.28px;
+  width: 1307px;
+  height: 106.26px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-8-once-your-update-request-is-processed-and-approved-you-will-receive-a-confirmation-sms-on-your-registered-mobile-number-span {
+  color: #de1167;
+  font: 700 32px "Inknut Antiqua", sans-serif;
+}
+.step-8-once-your-update-request-is-processed-and-approved-you-will-receive-a-confirmation-sms-on-your-registered-mobile-number-span2 {
+  color: #000000;
+  font: 500 30px "Inknut Antiqua", sans-serif;
+}
+.step-9-now-you-can-download-the-updated-aadhaar-card-e-aadhaar-from-the-uidai-website-using-your-aadhaar-number-or-vid-virtual-id {
+  text-align: left;
+  position: absolute;
+  left: 92px;
+  top: 4603.28px;
+  width: 1307px;
+  height: 106.26px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-9-now-you-can-download-the-updated-aadhaar-card-e-aadhaar-from-the-uidai-website-using-your-aadhaar-number-or-vid-virtual-id-span {
+  color: #de1167;
+  font: 700 32px "Inknut Antiqua", sans-serif;
+}
+.step-9-now-you-can-download-the-updated-aadhaar-card-e-aadhaar-from-the-uidai-website-using-your-aadhaar-number-or-vid-virtual-id-span2 {
+  color: #000000;
+  font: 500 30px "Inknut Antiqua", sans-serif;
+}
+.step-5-depending-on-the-type-of-update-you-may-be-required-to-upload-scanned-copies-of-supporting-documents-then-review-and-submit-it {
+  text-align: left;
+  position: absolute;
+  left: 92px;
+  top: 3920.37px;
+  width: 1307px;
+  height: 236.96px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-5-depending-on-the-type-of-update-you-may-be-required-to-upload-scanned-copies-of-supporting-documents-then-review-and-submit-it-span {
+  color: #de1167;
+  font: 700 32px "Inknut Antiqua", sans-serif;
+}
+.step-5-depending-on-the-type-of-update-you-may-be-required-to-upload-scanned-copies-of-supporting-documents-then-review-and-submit-it-span2 {
+  color: #000000;
+  font: 500 30px "Inknut Antiqua", sans-serif;
+}
+.step-3-after-logging-in-you-will-have-the-option-to-select-the-field-you-want-to-update-e-g-name-address-date-of-birth-mobile-number-gender-etc {
+  text-align: left;
+  position: absolute;
+  left: 92px;
+  top: 3627.1px;
+  width: 1307px;
+  height: 99.88px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-3-after-logging-in-you-will-have-the-option-to-select-the-field-you-want-to-update-e-g-name-address-date-of-birth-mobile-number-gender-etc-span {
+  color: #de1167;
+  font: 700 32px "Inknut Antiqua", sans-serif;
+}
+.step-3-after-logging-in-you-will-have-the-option-to-select-the-field-you-want-to-update-e-g-name-address-date-of-birth-mobile-number-gender-etc-span2 {
+  color: #000000;
+  font: 500 30px "Inknut Antiqua", sans-serif;
+}
+.image-8 {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 1078px;
+  top: 2885px;
+  border-radius: 60px 60px;
+}
+
+#link{
+  background: linear-gradient(
+    243.98deg,
+    rgb(122, 67, 163) 0.5208333488553762%,
+    rgb(245, 157, 194) 88.02083134651184%,
+    rgba(188, 0, 90, 0.2) 99.98999834060669%
+  );
+  width: 1700px;
+  height: 300px;
+  position: relative;
+  overflow: hidden;
+  font-size: 51px;
+  background-color: #de1167;
+  color: rgb(0, 0, 0);
+  font-family: sans-serif;
+  
+}
