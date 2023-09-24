@@ -7,7 +7,7 @@
 /* Basic styling */ 
 body { 
     font-family: Arial, sans-serif; 
-    background-color: #b7d55d; 
+    background-color: #5d91d5; 
 } 
  
 header { 
@@ -23,19 +23,19 @@ h{
      
    
     font-size: 30px; 
-    color: rgb(77, 185, 27); 
+    color: rgb(0, 0, 0); 
             
             font-weight: bold; 
 } 
 h1{ 
     font: optional; 
-    background: rgb(211, 204, 237); 
+    background: rgb(19, 1, 81); 
     font-style: normal; 
     text-shadow: #333; 
     font-size: 50px; 
     color: rgb(146, 22, 22); 
             padding: 5px 15px; 
-            border-color: rgb(18, 171, 232); 
+            border-color: blue; 
             border-width: 4px 4px; 
             font-weight: bold; 
 } 
@@ -43,11 +43,11 @@ section{
     font: optional; 
     background: rgb(19, 1, 81); 
     font-style: normal; 
-    text-shadow: #81c236; 
+    text-shadow: #333; 
     font-size: 25px; 
-    color: rgb(12, 240, 27); 
+    color: rgb(146, 22, 22); 
             
-            border-color: rgb(26, 167, 13); 
+            border-color: blue; 
             border-width: 4px 4px; 
             font-weight: bold; 
 }

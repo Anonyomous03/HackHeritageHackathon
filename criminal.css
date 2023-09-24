@@ -7,7 +7,7 @@
 /* Basic styling */ 
 body { 
     font-family: Arial, sans-serif; 
-    background-color: #b7d55d; 
+    background-color: #143a81; 
 } 
  
 header { 
@@ -23,7 +23,7 @@ h{
      
    
     font-size: 30px; 
-    color: rgb(77, 185, 27); 
+    color: rgb(5, 5, 42); 
             
             font-weight: bold; 
 } 
@@ -31,7 +31,7 @@ h1{
     font: optional; 
     background: rgb(211, 204, 237); 
     font-style: normal; 
-    text-shadow: #333; 
+    text-shadow: #730d0d; 
     font-size: 50px; 
     color: rgb(146, 22, 22); 
             padding: 5px 15px; 
@@ -43,11 +43,11 @@ section{
     font: optional; 
     background: rgb(19, 1, 81); 
     font-style: normal; 
-    text-shadow: #81c236; 
+    text-shadow: #490d39; 
     font-size: 25px; 
-    color: rgb(12, 240, 27); 
+    color: rgb(171, 29, 131); 
             
-            border-color: rgb(26, 167, 13); 
+            border-color: rgb(167, 154, 193); 
             border-width: 4px 4px; 
             font-weight: bold; 
 }
@@ -64,7 +64,7 @@ nav ul li {
     max-width: 1200px; 
     margin: 0 auto; 
     padding: 20px; 
-    background-color: #dadfe6; 
+    background-color: #93b0dc; 
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
 } 
 
@@ -75,7 +75,8 @@ section {
     margin: 4px 0; 
     padding: 20px 0; 
     text-align: left; 
-    text-shadow: #333; 
+    color:  #8a0707; 
+
 } 
  
 form { 
